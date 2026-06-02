@@ -15,7 +15,7 @@ HomeBtn.addEventListener("click",()=>{
 });
 
 MenuBtn.addEventListener("click",()=>{
-  ccontent.replaceChildren();
+  content.replaceChildren();
   loadMenu();
 });
 
